@@ -5,3 +5,9 @@ The goal of this working group is define interfaces that can be used by software
 
 Join us!
 --------
+
+Instructions
+------------
+
+The workflow on how to use this repository in orchestration with the MPI Forum's main repository is currently being codified.
+Once this has settled, you will find instructions on how to participate in the working group process in the wiki.
